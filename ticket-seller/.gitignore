@@ -1,0 +1,19 @@
+﻿####### java ######
+*.class
+                                                                                        
+# Package Files #                                                                       
+*.jar                                                                                   
+*.war                                                                                   
+
+# intellij IDEA 
+*.iml
+.idea/
+
+######other####
+.project
+.mymetadata
+.classpath
+.settings/
+.svn/
+target/
+bin/
