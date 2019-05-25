@@ -1,4 +1,4 @@
-package com.skyline.mobile.ticket.service;
+package com.skyline.mobile.ticket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.skyline.mobile.ticket.service;
+package com.skyline.mobile.ticket;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
