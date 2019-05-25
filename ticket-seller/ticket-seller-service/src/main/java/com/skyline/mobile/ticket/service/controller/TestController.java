@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/ticket")
 public class TestController {
-
     @GetMapping("/show")
     public  void test(){
         System.out.println("hello skyline");
